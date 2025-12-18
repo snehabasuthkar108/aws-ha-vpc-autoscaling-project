@@ -1,5 +1,3 @@
 ## Architecture Diagram
 
-![AWS HA Architecture](diagrams/architecture-diagram.png)
-
-
+![AWS HA Architecture](diagrams/Diagram.png)
